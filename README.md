@@ -5,7 +5,7 @@
 The objective of this project is to perform real estate data exploration of major French cities to understand very
 well the real estate market in France.
 
-The dataset used is a 5-years data history of real estate transactions in France (real_estate_transactions.csv).
+The [dataset](real_estate_transactions.csv) used is a 5-years data history of real estate transactions in France.
 
 The dataset contains details for each transaction: sale date, localization (city, postal code), type of residence, type of sale, land area, living area, number of
 rooms, price, etc.).
@@ -14,7 +14,7 @@ The exploration of this dataset is done by using Spark, because the analysis sho
 
 Challenges here are to explore all possible aspects of this real estate market (variables, relationships between variables, trends, patterns, outliers, etc.).
 
-The notebook is divided into the following parts:
+The [Jupyter Notebook](Real-Estate-Market-Data-Exploration-in-major-French-cities.ipynb) is divided into the following parts:
 - Correlation between price and living area
 - Correlation between number of rooms and living area
 - Average price per year
